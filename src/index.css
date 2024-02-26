@@ -1,0 +1,26 @@
+body {
+  background-color: #1a1a1a;
+  padding: 0 1rem;
+  font-family: sans-serif;
+}
+
+form {
+  display: flex;
+  gap: 2rem;
+  color: #fff;
+}
+
+input {
+  margin: 1rem 0 0;
+  padding: 0.6em 0.5em;
+  font-size: 1em;
+  color: #fff;
+  display: block; /* label acima do input */
+  background-color: #4a4a4a;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+img {
+  width: 85%;
+}
